@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+#play-again a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: white;
+}
